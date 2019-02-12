@@ -32,8 +32,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Robin Martini
-  location: Heemstede
+  copyright: IDTwo
+  location: Bedrijfsgegevens
   social: Sociaal
   credits: Credits
 
@@ -54,6 +54,8 @@ social:
 address:
   - line: Timorstraat 55
   - line: 2103TV Heemstede
+  - line: "Tel: 06-48 79 48 86"
+  - line: "KVK: 73780413"
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
